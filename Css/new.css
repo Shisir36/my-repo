@@ -1,0 +1,27 @@
+h1{
+    font-size: 50px;
+ height:150px;
+ 
+    /* background-image:url('../john-jennings-fg7J6NnebBc-unsplash.jpg') ; */
+    background-size: 1555px;
+    color: rgb(200, 11, 11);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    text-align: center;
+    background-image: url('../tim-mossholder-SZgVZPbQ7RE-unsplash.jpg');
+    border-radius: 400px;
+ border-style: solid;
+ border-color: bisque;
+ box-shadow: 2px  2px black;
+ text-shadow: 20px;
+
+}
+p{
+    color: red;
+    font-size: 20px;
+   text-shadow: 1px 1px 2px  black;
+   background-color: coral;
+   height: 300px;
+   border: 20px solid black;
+
+}
